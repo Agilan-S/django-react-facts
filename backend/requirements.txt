@@ -2,8 +2,6 @@ django
 djangorestframework
 django-cors-headers
 gunicorn
-gunicorn
 whitenoise
-requirements.txt
 Procfile
 ALLOWED_HOSTS
